@@ -12,6 +12,8 @@ This project provides a PyQt application to help you track your laundry schedule
 * Calculate remaining washes and days left in the semester based on a pre-defined start and end date.
 * View a schedule of your upcoming wash days.
 
+### How to download
+download the dist folder and runt the test.exe executable application . make sure that the test.exe is in the same folder as _internal
 
 ### Instructions
 
